@@ -246,7 +246,7 @@ export const JoinUs: React.FC = () => {
 
           {/* Micro Telemetry */}
           <div className="mt-8 text-[11px] font-mono-tech text-neutral-400">
-            LOCATIONS :: SAN FRANCISCO • TOKYO • ZURICH • DISTRIBUTED
+            LOCATIONS :: SOUTH AFRICA • AFRICA
           </div>
         </motion.div>
       </div>

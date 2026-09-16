@@ -2,14 +2,14 @@ import React from 'react';
 import { ShieldCheck } from 'lucide-react';
 
 const partners = [
-  { name: 'Microsoft', icon: '⊞ Microsoft' },
-  { name: 'Amazon Web Services', icon: 'amazon' },
-  { name: 'Samsung', icon: 'SAMSUNG' },
-  { name: 'Apple Enterprise', icon: ' Apple' },
-  { name: 'NVIDIA AI', icon: 'NVIDIA' },
-  { name: 'Network Protocol', icon: '⧬ Network' },
-  { name: 'WTH Infra', icon: 'WTH' },
-  { name: 'Google Cloud', icon: 'Google Cloud' },
+  { name: 'Aetheris Dynamics', icon: '⟁ AETHERIS' },
+  { name: 'Nexus Cognition', icon: '◈ NEXUS_AI' },
+  { name: 'Kuroshio Systems', icon: 'KUROSHIO ▰' },
+  { name: 'Vanguard Cybernetics', icon: '⬡ VANGUARD' },
+  { name: 'Helios Automata', icon: '☀ HELIOS' },
+  { name: 'Synthetix Neural', icon: 'SYNTHETIX ◬' },
+  { name: 'OmniGrid Protocol', icon: '⧬ OMNIGRID' },
+  { name: 'Hyperion Labs', icon: 'HYPERION // 01' },
 ];
 
 export const TrustedBy: React.FC = () => {
